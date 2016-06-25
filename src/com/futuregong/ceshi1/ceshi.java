@@ -1,4 +1,4 @@
-package com.futuregong.ceshi;
+package com.futuregong.ceshi1;
 
 public class ceshi {
 	
@@ -17,6 +17,8 @@ public class ceshi {
 		
 		//调用参数的时候转换
 		System.out.println(l((yinyongzilei)a));
+		
+		System.out.println(123|12);
 		
 		
 	}
